@@ -35,7 +35,7 @@ function randomBalance() {
 }
 
 function randomEmail(name: string) {
-  return name.toLowerCase().replace(/\s/g, ".") + "@example.com";
+  return name.toLowerCase().replace(/\s/g, ".") + "@gmail.com";
 }
 
 function randomDate() {
